@@ -1,0 +1,99 @@
+.header img{
+    width: 65px;
+    height: auto;
+    margin-top: 8px;
+}
+.header{
+    background: #101446;
+}
+.header ul{
+    margin-bottom: 0px;
+    text-align: right;
+}
+.header ul li{
+    display: inline-block;
+    text-align: right;
+}
+.header ul li a{
+    padding: 13px 10px;
+    display: inline-block;
+    font-size: 16px;
+    color: #fff;
+    text-decoration: none;
+    line-height: 28px;
+}
+.header ul li a:hover{}
+
+.banner{
+    background-image: url(img/intro-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 266px;
+}
+.banner-text{
+    font-size: 14px;
+    margin-top: 90px;
+    color: #fff;
+}
+.banner-text h1{
+    font-size:20px;
+    color: #fff;
+}
+.btn{
+    background: #337ab7; 
+    margin-top: 10px;
+}
+.btn a{
+    color: #fff;
+    text-decoration: none;
+}
+/* our-team section */
+.our-team{
+ background: #bac1f3;
+}
+.our-team h1{
+    padding: 30px;
+}
+/* About section */
+.about{
+    background: #c2d4ea;
+}
+.about h4 {
+    margin-left: 280px;
+    font-weight: 400;
+}
+.about h2{
+    padding: 60px;
+    font-size: 40px;
+}
+
+
+
+
+
+
+/* form section  */
+.contact-form{
+
+}
+input[type="text"] {
+    width: 498px;
+}
+input[type="email"] {
+    width: 498px;
+}
+input[type="subject"] {
+    width: 498px;
+}
+.btn{
+    background:#5bc0de;
+}
+/* .footer section  */
+.footer{
+    background:#0062d3 ;
+    color: #fff;
+}
+.footer span{
+    font-weight: 700;
+}
+
